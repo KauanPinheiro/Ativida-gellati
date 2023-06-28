@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.menu{
+    background-color:   #F6D10D;
+}
+/*class de conteúdo tudo que estiver no conteúdo vai modificar aqui*/
+.conteudo{
+    text-align: center;
+    color: white;
+}
+.imgFundo{
+    background-image: url(/imagens/8dfcf9615714a448ac03e0f92b733d6b_XL.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.76;
+    padding: 300px;
+}
+
